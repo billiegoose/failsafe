@@ -9,7 +9,7 @@
   "author": "William Hilton <wmhilton@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "once": "^1.3.3"
+    "once": "^1.4.0"
   },
   "repository": {
     "type": "git",
